@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Welcome to my first webpage
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -22,7 +24,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
+```jsMonday, 27. July 2020 02:47AM
+
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
