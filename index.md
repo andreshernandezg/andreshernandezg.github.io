@@ -11,20 +11,20 @@ Currently, Andres is an assistant professor within the School of Engineering and
 + [Visible and NIR-based perception for grapevine phenotyping](#visible-and-nir-based-perception-for-grapevine-phenotyping)
 
 <a name="semantic-segmentation-of-fig-plants"></a>
-
 #### Semantic segmentation of fig plants using multispectral vision based deep learning
+Content will be added soon.
+
 
 <a name="2d-lidar-based-mapping-system"></a>
-
 #### 2D lidar based mapping system for plant phenotyping
+Content will be added soon.
+
 
 <a name="visible-and-nir-based-perception-for-grapevine-phenotyping"></a>
-
 #### Visible and NIR-based perception for grapevine phenotyping
+Content will be added soon.
 
 
 
-<br/>
-<br/><br/><br/>
-
+<br/><br/><br/><br/>
 Last updated on thursday 23 Mar, 2022.
