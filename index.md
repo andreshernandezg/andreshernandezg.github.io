@@ -27,4 +27,4 @@ Content will be added soon.
 
 
 <br/><br/><br/><br/>
-Last updated on thursday 23 Mar, 2022.
+Last updated on thursday 23 March 2022.
