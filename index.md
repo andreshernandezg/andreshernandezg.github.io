@@ -7,7 +7,7 @@ Currently, Andres is an assistant professor within the School of Engineering and
 #### Research projects
 
 + [Semantic segmentation of fig plants using multispectral vision based deep learning](#semantic-segmentation-of-fig-plants)
-+ [2D Lidar based mapping system for plant phenotyping](#2d-lidar-based-mapping-system)
++ [Low-cost 2D Lidar based mapping system for 3D mapping applications](#low-cost-2d-lidar-based-mapping-system-for-3d-mapping-applications)
 + [Visible and NIR-based perception for grapevine phenotyping](#visible-and-nir-based-perception-for-grapevine-phenotyping)
 
 <a name="semantic-segmentation-of-fig-plants"></a>
@@ -15,7 +15,7 @@ Currently, Andres is an assistant professor within the School of Engineering and
 Content will be added soon.
 
 
-<a name="2d-lidar-based-mapping-system"></a>
+<a name="low-cost-2d-lidar-based-mapping-system-for-3d-mapping-applications"></a>
 #### 2D lidar based mapping system for plant phenotyping
 Content will be added soon.
 
@@ -27,4 +27,4 @@ Content will be added soon.
 
 
 <br/><br/><br/><br/>
-Last updated on thursday 23 March 2022.
+Last updated on friday 25 March 2022.
