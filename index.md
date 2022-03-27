@@ -5,12 +5,6 @@ Andres obtained his PhD in Robotics at the [Australia Centre for Field Robotics]
 Currently, Andres is an assistant professor within the School of Engineering and Technologies at the [Universidad de Monterrey](https://www.udem.edu.mx/es), México. He leads the Agricultural Robotics and Autonomous Systems (ARAS) research group, as well as the Robotics Club and conducts applied research for the agriculture industry and lectures artificial intelligence and robotics.
 
 
-#### Qualifications
-
-
-#### Professional experience
-
-
 #### Research projects
 
 + [Semantic segmentation of fig plants using multispectral vision based deep learning](#semantic-segmentation-of-fig-plants)
