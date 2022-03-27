@@ -5,30 +5,37 @@ Andres obtained his PhD in Robotics at the [Australia Centre for Field Robotics]
 Currently, Andres is an assistant professor within the School of Engineering and Technologies at the [Universidad de Monterrey](https://www.udem.edu.mx/es), México. He leads the Agricultural Robotics and Autonomous Systems (ARAS) research group, as well as the Robotics Club and conducts applied research for the agriculture industry and lectures artificial intelligence and robotics.
 
 
-#### Agricultural Robotics and Autonomous Systems (ARAS) Group
+#### Qualifications
 
-##### Research projects
+
+#### Professional experience
+
+
+#### Research projects
 
 + [Semantic segmentation of fig plants using multispectral vision based deep learning](#semantic-segmentation-of-fig-plants)
 + [Low-cost 2D Lidar based mapping system for 3D mapping applications](#low-cost-2d-lidar-based-mapping-system-for-3d-mapping-applications)
 + [Visible and NIR-based perception for grapevine phenotyping](#visible-and-nir-based-perception-for-grapevine-phenotyping)
 
 <a name="semantic-segmentation-of-fig-plants"></a>
-##### Semantic segmentation of fig plants using multispectral vision based deep learning
+#### Semantic segmentation of fig plants using multispectral vision based deep learning
 Content will be added soon.
 
 
 <a name="low-cost-2d-lidar-based-mapping-system-for-3d-mapping-applications"></a>
-##### 2D lidar based mapping system for plant phenotyping
+#### 2D lidar based mapping system for plant phenotyping
 Content will be added soon.
 
 
 <a name="visible-and-nir-based-perception-for-grapevine-phenotyping"></a>
-##### Visible and NIR-based perception for grapevine phenotyping
+#### Visible and NIR-based perception for grapevine phenotyping
 Content will be added soon.
 
 
-#### Robotics Club
+#### Teaching
+
+
+
 
 
 
